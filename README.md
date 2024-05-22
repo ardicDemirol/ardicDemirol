@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D03AQE1AwoeI08wgQ/profile-displayphoto-shrink_800_800/0/1667146416524?e=1721865600&v=beta&t=gGSDYWgVC9_AO7Evce6xVHmwmrhfgzkQiNBURJz_nnw)
+![MasterHead]([https://media.licdn.com/dms/image/D4D03AQE1AwoeI08wgQ/profile-displayphoto-shrink_800_800/0/1667146416524?e=1721865600&v=beta&t=gGSDYWgVC9_AO7Evce6xVHmwmrhfgzkQiNBURJz_nnw](https://avatars.githubusercontent.com/u/99182026?s=96&v=4))
 
 <h1 align="center">Hi 👋, I'm Ardıç</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
