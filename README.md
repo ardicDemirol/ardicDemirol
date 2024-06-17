@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQFw2qLG70JraA/profile-displaybackgroundimage-shrink_350_1400/0/1652631338329?e=1721865600&v=beta&t=FNqAkolxc6uVv2qow2Df7YvmTrQqJCS-r4KldagSnZM)
 
-<h1 align="center">Hi 👋, I'm Ardıç</h1>
+<h1 align="center">I'm Ardıç</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
 - 🔭 I’m currently working on **game development**
