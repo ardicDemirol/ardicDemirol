@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQFw2qLG70JraA/profile-displaybackgroundimage-shrink_350_1400/0/1652631338329?e=1721865600&v=beta&t=FNqAkolxc6uVv2qow2Df7YvmTrQqJCS-r4KldagSnZM)
+![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFw2qLG70JraA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1652631338329?e=1730937600&v=beta&t=3t-MRWDajewVDr_OAMLKtrCof6OXMWyNxhlSr0ADvRs)
 <h1 align="center">Hi 👋, I'm Ardıç</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
